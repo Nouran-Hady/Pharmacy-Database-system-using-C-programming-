@@ -1,0 +1,9 @@
+Medicine_ID
+Medicine_price
+Quantity
+////
+Medicine_Name
+Medicine_Company
+Medicine_Manufacturing_Date
+Medicine_Expiry_Date
+info
